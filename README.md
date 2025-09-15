@@ -1,4 +1,4 @@
-##Exercício proposto
+## Exercício proposto
 
 Escreva um código onde temos uma conta bancaria que possa realizar as seguintes operações:
     - Consultar saldo
