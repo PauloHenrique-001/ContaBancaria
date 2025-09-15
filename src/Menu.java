@@ -1,0 +1,10 @@
+public enum Menu {
+
+    CONSULTARSALDO,
+    CONSULTARCHEQUE,
+    DEPOSITAR,
+    SACAR,
+    PAGARBOLETO,
+    USANDOCHEQUE,
+    SAIR
+}
